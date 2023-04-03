@@ -148,7 +148,18 @@
 					"Financial value",
 					"That's invalid syntax"
 				]
-			}
+			},
+            {
+                "id": 7,
+                "content": "<p>mer enn 7 rette er",
+                "correctIndex": 1,
+                "answers": [
+                    "Topp",
+                    "Bra",
+                    "Dårlig",
+                    "Gå å vugg"
+                ]
+            },
 		]
 	}
 }]
